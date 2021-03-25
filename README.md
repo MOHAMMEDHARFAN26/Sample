@@ -1,1 +1,1 @@
-# Sample
+# spring-boot-crud-example
